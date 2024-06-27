@@ -1,0 +1,114 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "code": "BO-1234",
+      "name": "Thám từ 007",
+      "category": {
+        "id": "1",
+        "name": "Trinh tham"
+      },
+      "date": "2024-12-15",
+      "quantity": "15",
+      "desc": "hồi hộp"
+    },
+    {
+      "id": "2",
+      "code": "BO-2564",
+      "name": "Yêu 99 Ngày",
+      "desc": "Tình cảm",
+      "category": {
+        "id": "2",
+        "name": "Tieu thuyet"
+      },
+      "date": "2024-12-15",
+      "quantity": "12"
+    },
+    {
+      "id": "0370",
+      "code": "BO-9999",
+      "name": "Chạy theo em",
+      "date": "2022-12-12",
+      "quantity": 12,
+      "desc": "tình cảm",
+      "category": {
+        "id": "2",
+        "name": "Tieu thuyet"
+      }
+    },
+    {
+      "id": "6ddb",
+      "code": "BO-9999",
+      "name": "Ma Đà lạt",
+      "date": "2024-06-16",
+      "desc": "kinh hoàng",
+      "category": {
+        "id": "3",
+        "name": "Kinh di"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "3b57",
+      "code": "BO-1234",
+      "name": "hello day",
+      "date": "2024-06-15",
+      "quantity": 2,
+      "desc": "tình cảm",
+      "category": {
+        "id": "2",
+        "name": "Tieu thuyet"
+      }
+    },
+    {
+      "id": "de9c",
+      "code": "BO-1593",
+      "name": "Ma Đô thị",
+      "date": "2024-06-26",
+      "desc": "Rất kinh hoàng gây ám ảnh",
+      "quantity": 3,
+      "category": {
+        "id": "3",
+        "name": "Kinh di"
+      }
+    },
+    {
+      "id": "9640",
+      "code": "BO-4444",
+      "name": "Thám từ lừng danh Conan",
+      "date": "2024-06-15",
+      "desc": "Truyện tranh theo tập ",
+      "category": {
+        "id": "1",
+        "name": "Trinh tham"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "77bd",
+      "code": "BO-0001",
+      "name": "Truyện Doremon",
+      "date": "2024-06-22",
+      "desc": "Truyện về trẻ em Japan",
+      "quantity": 4,
+      "category": {
+        "id": "1",
+        "name": "Trinh tham"
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Trinh tham"
+    },
+    {
+      "id": "2",
+      "name": "Tieu thuyet"
+    },
+    {
+      "id": "3",
+      "name": "Kinh di"
+    }
+  ]
+}
